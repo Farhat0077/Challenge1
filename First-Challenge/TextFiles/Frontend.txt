@@ -1,0 +1,3 @@
+Frontend web development involves creating the user interface and experience that users interact with directly in a web browser.
+It employs languages such as HTML, CSS, and JavaScript to structure content, style elements, and add interactivity.
+Frontend developers also focus on cross-browser compatibility and responsive design to ensure a seamless user experience across different devices and screen sizes.

@@ -1,0 +1,6 @@
+Skills needed for full-stack development:
+1. Proficiency in frontend technologies like HTML, CSS, and JavaScript.
+2. Knowledge of backend technologies such as Node.js, Python, Ruby on Rails, or Java.
+3. Understanding of databases (SQL and NoSQL), web servers, and APIs.
+4. Familiarity with version control systems (e.g., Git) and deployment processes.
+5. Problem-solving abilities and debugging skills across the full stack.
